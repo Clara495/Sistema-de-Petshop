@@ -7,8 +7,9 @@ Um sistema desenvolvido para oferecer serviços e informações sobre cuidados c
 <div align="center">
 <img src="https://github.com/user-attachments/assets/65b8f6bf-e63e-4318-8c46-6d93b5bd6bac" width="700px" alt="HOME" border="0" id="landing page">
 </div>
+<br>
 
-# Recursos
+# Recursos :pick:
 
 :house: Seção Home: mensagem de boas-vindas e imagem ilustrativa.
 <br>
@@ -23,8 +24,10 @@ Um sistema desenvolvido para oferecer serviços e informações sobre cuidados c
 <br>
 <br>
 :round_pushpin: Botão dinâmico: "Acessar" na navbar ou menu off-canvas.
+<br>
+<br>
 
-# Tecnologias Utilizadas
+# Tecnologias Utilizadas :computer:
 
 :computer: Frontend: HTML, CSS e JavaScript
 <br>
