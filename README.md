@@ -3,7 +3,7 @@
 Um sistema desenvolvido para oferecer serviços e informações sobre cuidados com os pets! :sparkling_heart:
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/407ab585-c78c-4809-9464-05b64ed73c31" width="700px" alt="HOME" border="0" id="landing page">
+<img src="https://github.com/user-attachments/assets/65b8f6bf-e63e-4318-8c46-6d93b5bd6bac" width="700px" alt="HOME" border="0" id="landing page">
 </div>
 
 # Recursos
